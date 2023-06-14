@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozwaldorf&layout=compact&bg_color=1e1e2e&hide_border=true&border_radius=10&text_color=bac2de&title_color=cdd6f4)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ozwaldorf&no-frame=true&theme=darkhub&column=3)](https://github.com/ryo-ma/github-profile-trophy)
